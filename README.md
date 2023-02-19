@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m constantly trying to improve my concepts on Data Structures and Agorithms.<br>🌱 I'm a mobile engineer currently learning Angular and polishing my knowledge on spring boot and i have a thing for AI/ML.<br>💻 I'm a design Enthusiast.<br>👯 I’m looking to collaborate on project ideas and participate actively in hackathons.<br>💬 Ask me anything. I'll be glad to help.<br>📫 How to reach me: yinkyade@gmail.com
+🔭 I’m constantly trying to improve my concepts on Data Structures and Algorithms.<br>🌱 I'm a mobile engineer currently learning Angular and polishing my knowledge on spring boot and i have a thing for AI/ML.<br>💻 I'm a design Enthusiast.<br>👯 I’m looking to collaborate on project ideas and participate actively in hackathons.<br>💬 Ask me anything. I'll be glad to help.<br>📫 How to reach me: yinkyade@gmail.com
 
 
 ## 🌐 Socials:

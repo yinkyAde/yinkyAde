@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Continuously improving my knowledge of Data Structures and Algorithms.<br>🌱 Mobile Engineer currently learning Angular, enhancing my Spring Boot skills, and exploring AI/ML.<br>💻 Passionate about design.<br>👯 Looking to collaborate on project ideas.<br>💬 Feel free to ask me anything. I'm here to help.<br>📫 Reach me at yinkyade@gmail.com.
+🔭 Continuously improving my knowledge of Data Structures and Algorithms.<br>🌱 Mobile Engineer vast in Flutter, Kotlin and Swift currently learning Angular, enhancing my Spring Boot skills, and exploring AI/ML.<br>💻 Passionate about design.<br>👯 Looking to collaborate on project ideas.<br>💬 Feel free to ask me anything. I'm here to help.<br>📫 Reach me at yinkyade@gmail.com.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/israeladeroju) 
